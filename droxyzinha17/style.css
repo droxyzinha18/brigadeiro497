@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    
+
+}
+.brigadeiro{
+    background-image: url(img/brigadeiro-gourmet-banoffe-p.jpg);
+    background-size: cover;
+    background-position: center;
+}
