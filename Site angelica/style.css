@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(img/receitas-de-docinhos.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
+.bricadeiro{
+    display: flex;
+    align-items: center;
+    border-radius: 60px;
+    padding: 10px 20px;
+}
+
+h1{
+    position: absolute;
+    top: 50%;
+}
+
+#comprar:hover{
+    transform: scale(1.08);
+}
+
+#comprar{
+    transition: transform 200ms;
+}
