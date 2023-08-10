@@ -14,22 +14,22 @@ body{
 }
 
 
-.bricadeiro{
+.brigadeiro{
     display: flex;
     align-items: center;
     border-radius: 60px;
     padding: 10px 20px;
 }
 
-h1{
-    position: absolute;
-    top: 50%;
-}
 
-#comprar:hover{
+
+.amor:hover{
     transform: scale(1.08);
 }
 
-#comprar{
+.amor{
+    position: absolute;
+    top: 50%;
     transition: transform 200ms;
 }
+
